@@ -11,7 +11,8 @@ Each notebook corresponds to a practical assignment covering key topics in Deep 
 2. **Neural Network Tuning**  
    Consists of two parts:  
    - Implementation of autograd and a fully connected neural network (FCNN).  
-   - Hyperparameter tuning of the FCNN.  
+   - Hyperparameter tuning of the FCNN. 
+   
    Results were logged to Weights & Biases (`wandb`):  
    [https://wandb.ai/shadaevf-rtu-mirea/ml2_2_part_3](https://wandb.ai/shadaevf-rtu-mirea/ml2_2_part_3)
 
@@ -26,7 +27,8 @@ Each notebook corresponds to a practical assignment covering key topics in Deep 
    - Comparison of three CNN architectures:  
      - ResNet  
      - VGG  
-     - MobileNet  
+     - MobileNet 
+   
    Results were logged to `wandb`:  
    [https://wandb.ai/shadaevf-rtu-mirea/ML2_4_2](https://wandb.ai/shadaevf-rtu-mirea/ML2_4_2)
 
@@ -55,7 +57,7 @@ To run the notebooks locally, follow these steps:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/MrDeryf/<Name>
+   git clone https://github.com/MrDeryf/DL-Notebooks
    ```
 2. Install dependencies using [Poetry](https://python-poetry.org/):
     ```bash
